@@ -1,3 +1,6 @@
+
+**OUTDATED**
+
 # Rust-Hack-Leak
 Download, Run the "Private.exe" as admin, A popup will show and say Open Rust, Open Rust, Insert
 
